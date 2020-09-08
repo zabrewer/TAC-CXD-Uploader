@@ -1,8 +1,17 @@
 # TAC-CXD-Uploader
 
-## This is a Python script used upload files to Cisco TAC Cases using ServiceGrid API and Customer eXperience Drive (CXD) Tokens
+https://github.com/zabrewer/TAC-CXD-Uploader/blob/master/uploader.py
+
+
+## What
+
+TAC-CXD-Uploader is a simple Python script used to upload files to Cisco TAC Cases using the ServiceGrid API and Customer eXperience Drive (CXD) Tokens.
+
+## Why
 
 In certain instances, customers cannot upload files directly to a Cisco TAC case.  This script Uses the Customer Experience Drive and ServiceGrid API to upload files to TAC cases.
+
+## Requirements
 
 The script requires installation of the Requests python module.
 
